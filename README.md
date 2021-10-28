@@ -2,6 +2,24 @@
 
 **QUESTO Id Tracer**: It is a Id tracer (searcher) bot application which can help you to detect any Social Profile Id on your device within few seconds meticulously.
 
+**Prompt1**
+
+![prompt1](https://user-images.githubusercontent.com/86475883/139303723-a062eb4d-4e92-49e4-bbb5-18572e6d335b.png)
+
+**Prompt2**
+
+![prompt2](https://user-images.githubusercontent.com/86475883/139303533-53c8f5f1-4e81-4eb9-a06c-660c4a81955d.png)
+
+**Instagram Traceing**
+
+https://user-images.githubusercontent.com/86475883/139303412-13cb1664-b950-4b3b-986c-51be21684596.mp4
+
+
+**Facebook Traceing**
+
+https://user-images.githubusercontent.com/86475883/139303033-081452a3-c1d0-446f-bbf1-43698ef5701c.mp4
+
+
 ***********************************
 ***********************************
 
@@ -22,7 +40,6 @@ C)It will redirect you to choosen media platform to search profile then itself s
 D)After the process of finding profile you will be asked that do you want to leave these site or not.**
 
 
-
 ***********************************
 ***********************************
 
@@ -35,4 +52,4 @@ For searching in Facebook you need to replace your friends name in (Name Of Frie
 
 3.You need to firstly login into Instagram and facebook media handles from your specified user id you want to search (NOTE: User id used to search profiles and scraped friends list should be of same id otherwise you will not get your friends name on results)
 
-*For better understanding you can see the video of searching id on my LinkedIn profile-https://www.linkedin.com/in/rajiljain
+*For better understanding you can see the video of searching id on my LinkedIn profile-https://www.linkedin.com/posts/rajiljain_robotics-machinelearning-uipath-activity-6753294465487659008-v6Xi
